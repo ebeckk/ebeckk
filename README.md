@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebeckk
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Go and C
+- 🌱 I’m currently learning Python, C, and RISC-V
 - 💞️ I’m looking to collaborate on anything! Want to get some experience.
 
 <!---
